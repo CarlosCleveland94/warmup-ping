@@ -1,6 +1,6 @@
 name: step-01-30s
 on:
-  workflow_dispatch:
+  workflow_dispatch: {}
 
 jobs:
   run:
